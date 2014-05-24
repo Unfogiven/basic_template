@@ -5,3 +5,4 @@ default:
   - 'newer:jade'
   - 'newer:sass'
   - 'newer:autoprefixer'
+  - 'watch'

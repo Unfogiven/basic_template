@@ -1,10 +1,9 @@
 module.exports = {
     dist: {
         src: [
-            'library/js/jquery/dist/jquery.js',
-            'library/js/underscore/underscore.js',
-            'library/js/backbone/backbone.js'
+            'dev/js/jquery.js',
+            'dev/js/bootstrap.min.js'
         ],
-        dest: 'dev/js/concat.js'
+        dest: 'final/js/build.js'
     }
 }

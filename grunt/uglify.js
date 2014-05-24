@@ -1,6 +1,6 @@
 module.exports = {
     build: {
-        src: 'dev/js/concat.js',
-        dest: 'final/js/build.js'
+        src: 'final/js/build.js',
+        dest: 'final/js/build.min.js'
     }
 }
