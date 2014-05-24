@@ -1,0 +1,7 @@
+default:
+  - 'newer:concat'
+  - 'newer:uglify'
+  - 'newer:imagemin'
+  - 'newer:jade'
+  - 'newer:sass'
+  - 'newer:autoprefixer'
